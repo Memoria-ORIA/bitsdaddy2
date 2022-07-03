@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8399BE4E054C495BFd7DF6A06B393110Dd7d9295",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8399be4e054c495bfd7df6a06b393110dd7d9295",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "BitsDaddy",
+  "SYMBOL": "DAD",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bitsdaddy",
+  "SHOW_BACKGROUND": true
+}
